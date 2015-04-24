@@ -1,4 +1,4 @@
-# hello-world
+# hello-world [![Build Status](https://travis-ci.org/Insanitariume/hello-world.svg?branch=master)](https://travis-ci.org/Insanitariume/hello-world)
 =============
 
 Hi Humans!
